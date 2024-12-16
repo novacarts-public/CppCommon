@@ -1,6 +1,6 @@
 # Modules
 Catch2 modules/Catch2 https://github.com/catchorg/Catch2.git v3.7.1
-CppBenchmark modules/CppBenchmark https://github.com/chronoxor/CppBenchmark.git 1.0.4.0
+CppBenchmark modules/CppBenchmark https://github.com/novacarts-public/CppBenchmark.git nc1.0.4.0
 fmt modules/fmt https://github.com/fmtlib/fmt.git 11.0.1
 vld modules/vld https://github.com/chronoxor/vld.git v2.5.4
 
